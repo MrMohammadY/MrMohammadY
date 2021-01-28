@@ -9,8 +9,11 @@
 - ⚡ Fun fact: I can't stay at home
 <br>
 
-### My status in github:
+### My status in Github:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrMohammadY&theme=default&show_icons=true) 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMohammadY&layout=compact)
 
+## Languages and Tools:
+
+(https://github.com/tomchen/stack-icons/blob/master/logos/python.svg)
