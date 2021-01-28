@@ -1,9 +1,9 @@
 ## Hi there,I Mohammad Mahdi Yazdani 👋
 
 
-### About me:
+### About me :man_raising_hand::
 
-###### - 🌱 I’m currently learning Python and related technologies its.
+- 🌱 I’m currently learning Python and related technologies its.
 - 📫 You can to reach me with [Telegram @mehdy_te](https://t.me/mehdy_te)
 - :boy: I learn anything to make myself better.
 - ⚡ Fun fact: I can't stay at home
