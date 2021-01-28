@@ -17,8 +17,8 @@
 ## Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="90" width="90" style="vertical-align:top; margin:4px">
-<img src="https://cdn.iconscout.com/icon/free/png-256/git-17-1175218.png" alt="git" height="90" width="90" style="vertical-align:top; margin:4px">
+<img src="https://cdn.iconscout.com/icon/free/png-256/git-17-1175218.png" alt="git" height="80" width="80" style="vertical-align:top; margin:4px">
  <img src="https://cdn.iconscout.com/icon/free/png-256/django-11-1175036.png" alt="git" height="90" width="90" style="vertical-align:top; margin:4px;">
-<img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-2-1175137.png" alt="git" height="90" width="90" style="vertical-align:top; margin:4px">
+<img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-2-1175137.png" alt="git" height="90" width="90" style="vertical-align:top; margin:3px">
 
 </p>
