@@ -21,3 +21,4 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/django-11-1175036.png" alt="git" height="90" width="90" style="vertical-align:top; margin:1px;">
 <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-2-1175137.png" alt="git" height="90" width="90" style="vertical-align:top; margin:1px">
 </p>
+.#{$ci-css-prefix}-python:before { content: unquote("\"\\#{$ci-var-python}\""); }
