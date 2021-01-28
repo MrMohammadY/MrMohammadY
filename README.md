@@ -9,8 +9,13 @@
 - ⚡ Fun fact: I can't stay at home
 
 
+## Find me on:
+<a href="https://t.me/mehdy_te"><img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" height="35" width="40"></a>
+<a href="https://www.instagram.com/mehdy_in/"><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-1868978-1583142.png" alt="instagram" height="35"></a>
+
+
 ## Languages and Tools:
-<p class="bg-gray" align="center">
+<p align="center">
 <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/python/python.svg" alt="Python" height="50" width="50" style="vertical-align:top">
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="50" width="50" style="vertical-align:top">
 <img src="https://cdn.iconscout.com/icon/free/png-256/django-1-282754.png" alt="django" height="50" width="50" style="vertical-align:top">
@@ -19,11 +24,6 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/docker-13-1175230.png" alt="docker" height="60" width="60" style="vertical-align:top">
 <img src="https://cdn.iconscout.com/icon/free/png-256/ubuntu-16-1175076.png" alt="ubuntu" height="50" width="50" style="vertical-align:top">
 </p>
-
-
-## Find me on:
-<a href="https://t.me/mehdy_te"><img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" height="40" width="40"></a>
-<img src="https://cdn.iconscout.com/icon/free/png-256/instagram-1868978-1583142.png" alt="instagram" height="40" width="40">()
 
 
 ### My status in Github:
