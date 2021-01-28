@@ -7,7 +7,8 @@
 - 📫 You can to reach me with [Telegram @mehdy_te](https://t.me/mehdy_te)
 - :boy: I learn anything to make myself better.
 - ⚡ Fun fact: I can't stay at home
-<br>
+
+
 ## Languages and Tools:
 <p class="bg-gray" align="center">
 <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/python/python.svg" alt="Python" height="50" width="50" style="vertical-align:top">
@@ -22,5 +23,4 @@
 ### My status in Github:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrMohammadY&theme=default&show_icons=true) 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMohammadY&layout=compact)
 
