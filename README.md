@@ -17,8 +17,8 @@
 ## Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/python/python.svg" alt="Python" height="90" width="90" style="vertical-align:top; margin:1px">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Python" height="90" width="90" style="vertical-align:top; margin:1px">
-<img src="https://cdn.iconscout.com/icon/free/png-256/git-17-1175218.png" alt="git" height="80" width="80" style="vertical-align:top; margin:1px">
-<img src="https://cdn.iconscout.com/icon/free/png-256/django-11-1175036.png" alt="git" height="90" width="90" style="vertical-align:top; margin:1px;">
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="90" width="90" style="vertical-align:top; margin:1px">
+<img src="https://cdn.iconscout.com/icon/free/png-256/django-1-282754.png" alt="django" height="90" width="90" style="vertical-align:top; margin:1px;">
+<img src="https://cdn.iconscout.com/icon/free/png-256/git-13-569377.png" alt="git" height="80" width="80" style="vertical-align:top; margin:1px">
 <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-2-1175137.png" alt="git" height="90" width="90" style="vertical-align:top; margin:1px">
 </p>
