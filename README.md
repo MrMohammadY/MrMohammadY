@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=MrMohammadY&theme=monokai&show_icons=true&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=default&show_icons=true)
 <br>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMohammadY&layout=compact)
