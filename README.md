@@ -15,5 +15,6 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMohammadY&layout=compact)
 
 ## Languages and Tools:
-
-![github](https://www.google.com/search?q=icon+python&sxsrf=ALeKk00jcRnmvJQZuoO1F4Ihv8G0rjGALA:1611831544465&tbm=isch&source=iu&ictx=1&fir=7eFwhk95BLHXrM%252Cyoh2CtRN4YqIRM%252C_&vet=1&usg=AI4_-kQndDW2nNG5ACGAV6D6xXh50wDRWQ&sa=X&ved=2ahUKEwj-ypS1vL7uAhU5ZhUIHfLUCkEQ9QF6BAgKEAE&biw=1920&bih=905#imgrc=7eFwhk95BLHXrM)
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+</p>
