@@ -8,7 +8,7 @@
 - :boy: I learn anything to make myself better.
 - ⚡ Fun fact: I can't stay at home
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+![$bg-blue]sadsad
 ### Find me on:
 <a href="https://t.me/mehdy_te"><img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" height="35" style="margin:8px"></a>
 <a href="https://www.instagram.com/mehdy_in/"><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-1868978-1583142.png" alt="instagram" height="35" style="margin:8px"></a>
