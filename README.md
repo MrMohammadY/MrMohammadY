@@ -16,4 +16,4 @@
 
 ## Languages and Tools:
 
-![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)
+![github](https://www.google.com/search?q=icon+python&sxsrf=ALeKk00jcRnmvJQZuoO1F4Ihv8G0rjGALA:1611831544465&tbm=isch&source=iu&ictx=1&fir=7eFwhk95BLHXrM%252Cyoh2CtRN4YqIRM%252C_&vet=1&usg=AI4_-kQndDW2nNG5ACGAV6D6xXh50wDRWQ&sa=X&ved=2ahUKEwj-ypS1vL7uAhU5ZhUIHfLUCkEQ9QF6BAgKEAE&biw=1920&bih=905#imgrc=7eFwhk95BLHXrM)
