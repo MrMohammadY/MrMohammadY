@@ -8,7 +8,7 @@
 - :boy: I learn anything to make myself better.
 - ⚡ Fun fact: I can't stay at home
 
-
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 ### Find me on:
 <a href="https://t.me/mehdy_te"><img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" height="35" style="margin:8px"></a>
 <a href="https://www.instagram.com/mehdy_in/"><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-1868978-1583142.png" alt="instagram" height="35" style="margin:8px"></a>
@@ -21,7 +21,6 @@
 
 
 ### Languages and Tools:
-<span style="color:blue">hi
 <p align="center">
 <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/python/python.svg" alt="Python" height="50" width="50" style="vertical-align:top">
 <img src="https://upload.vectorlogo.zone/logos/pocoo_flask/images/5edfb8bf-3da1-455e-98db-91a7b0a955b1.svg" alt="flask" height="50" width="50" style="vertical-align:top">
@@ -31,6 +30,5 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/docker-13-1175230.png" alt="docker" height="60" width="60" style="vertical-align:top">
 <img src="https://cdn.iconscout.com/icon/free/png-256/ubuntu-16-1175076.png" alt="ubuntu" height="50" width="50" style="vertical-align:top">
 </p>
-</span>
 
 
