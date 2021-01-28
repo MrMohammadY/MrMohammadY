@@ -10,8 +10,8 @@
 
 
 ## Find me on:
-<a href="https://t.me/mehdy_te"><img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" height="35" style="margin:2px"></a>
-<a href="https://www.instagram.com/mehdy_in/"><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-1868978-1583142.png" alt="instagram" height="35" style="margin:2px"></a>
+<a href="https://t.me/mehdy_te"><img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" height="35" style="margin:4px"></a>
+<a href="https://www.instagram.com/mehdy_in/"><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-1868978-1583142.png" alt="instagram" height="35" style="margin:4px"></a>
 
 
 ## Languages and Tools:
