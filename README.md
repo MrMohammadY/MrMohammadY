@@ -15,7 +15,7 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMohammadY&layout=compact)
 
 ## Languages and Tools:
-<p align="center" backgroundcolor="#f6f8fa">
+<p align="center"  style="background-color:#f6f8fa">
 <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/python/python.svg" alt="Python" height="70" width="70" style="vertical-align:top">
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="70" width="70" style="vertical-align:top">
 <img src="https://cdn.iconscout.com/icon/free/png-256/django-1-282754.png" alt="django" height="70" width="70" style="vertical-align:top">
