@@ -3,7 +3,7 @@
 
 ### About me:
 
-- 🌱 I’m currently learning Python and related technologies its.
+- 🌱 ### I’m currently learning Python and related technologies its.
 - 📫 You can to reach me with [Telegram @mehdy_te](https://t.me/mehdy_te)
 - :boy: I learn anything to make myself better.
 - ⚡ Fun fact: I can't stay at home
@@ -19,7 +19,9 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/docker-13-1175230.png" alt="docker" height="60" width="60" style="vertical-align:top">
 <img src="https://cdn.iconscout.com/icon/free/png-256/ubuntu-16-1175076.png" alt="ubuntu" height="50" width="50" style="vertical-align:top">
 </p>
-
+## Find me on:
+[<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" height="40" width="40">](https://t.me/mehdy_te)
+<img src="https://cdn.iconscout.com/icon/free/png-256/instagram-1868978-1583142.png" alt="instagram" height="40" width="40">()
 ### My status in Github:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrMohammadY&theme=default&show_icons=true) 
