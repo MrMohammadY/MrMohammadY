@@ -20,5 +20,5 @@
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="70" width="70" style="vertical-align:top; margin:1px">
 <img src="https://cdn.iconscout.com/icon/free/png-256/django-1-282754.png" alt="django" height="70" width="70" style="vertical-align:top; margin:1px;">
 <img src="https://cdn.iconscout.com/icon/free/png-256/git-13-569377.png" alt="git" height="80" width="80" style="vertical-align:top">
-<img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" alt="mongodb" height="80" width="80" style="vertical-align:top; margin-right:1px">
+<img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png" alt="mongodb" height="80" width="80" style="vertical-align:top; margin-right:1px">
 </p>
