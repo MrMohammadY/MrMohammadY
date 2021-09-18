@@ -1,10 +1,10 @@
-## Hi there,I Mohammad Mahdi Yazdani 👋
+## Hi there,I'm Mohammad Mahdi Yazdani 👋
 
 
 ### About me:
 
-- 🌱 I’m currently learning Python and related technologies its.
-- 📫 You can to reach me with [Telegram @mehdy_te](https://t.me/mehdy_te)
+- 🌱 I’m currently learning Python and its related technologies.
+- 📫 You can reach me on telegram [t.me/mehdy_te](https://t.me/mehdy_te)
 - :boy: I learn anything to make myself better.
 - ⚡ Fun fact: I can't stay at home
 
